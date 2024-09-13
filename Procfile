@@ -1,0 +1,1 @@
+web: openWeatherApplication.wsgi:application --log-file -
