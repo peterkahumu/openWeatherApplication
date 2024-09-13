@@ -1,1 +1,1 @@
-web: openWeatherApplication.wsgi:application --log-file -
+web: openWeatherApplication.wsgi:application
